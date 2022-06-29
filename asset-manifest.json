@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d1065be.css",
-    "main.js": "/static/js/main.61881f64.js",
-    "static/media/silver.jpg": "/static/media/silver.2e28828062d8c2fc18b9.jpg",
-    "static/media/benchpress.jpg": "/static/media/benchpress.540902850a25eb2739af.jpg",
-    "static/media/seatedCableRow.jpg": "/static/media/seatedCableRow.76c79e619111220a941d.jpg",
-    "static/media/bronze.jpg": "/static/media/bronze.0e410bf3c666aa7882a5.jpg",
-    "static/media/treadmill.jpg": "/static/media/treadmill.32f9bca5724ec8e2de86.jpg",
-    "static/media/squatrack.jpg": "/static/media/squatrack.ccf0de79b3f464bb9645.jpg",
-    "static/media/gold.jpg": "/static/media/gold.26d325a52b3c8340bc02.jpg",
-    "static/media/phoneNumIcon.png": "/static/media/phoneNumIcon.97542532e9c221b5d36d.png",
-    "static/media/location.PNG": "/static/media/location.76ea31197107f7bf2c4c.PNG",
-    "static/media/appointments.PNG": "/static/media/appointments.01a3cd47a3368c056c76.PNG",
-    "index.html": "/index.html",
-    "main.6d1065be.css.map": "/static/css/main.6d1065be.css.map",
-    "main.61881f64.js.map": "/static/js/main.61881f64.js.map"
+    "main.css": "/a/static/css/main.6d1065be.css",
+    "main.js": "/a/static/js/main.6733191f.js",
+    "static/media/silver.jpg": "/a/static/media/silver.2e28828062d8c2fc18b9.jpg",
+    "static/media/benchpress.jpg": "/a/static/media/benchpress.540902850a25eb2739af.jpg",
+    "static/media/seatedCableRow.jpg": "/a/static/media/seatedCableRow.76c79e619111220a941d.jpg",
+    "static/media/bronze.jpg": "/a/static/media/bronze.0e410bf3c666aa7882a5.jpg",
+    "static/media/treadmill.jpg": "/a/static/media/treadmill.32f9bca5724ec8e2de86.jpg",
+    "static/media/squatrack.jpg": "/a/static/media/squatrack.ccf0de79b3f464bb9645.jpg",
+    "static/media/gold.jpg": "/a/static/media/gold.26d325a52b3c8340bc02.jpg",
+    "static/media/phoneNumIcon.png": "/a/static/media/phoneNumIcon.97542532e9c221b5d36d.png",
+    "static/media/location.PNG": "/a/static/media/location.76ea31197107f7bf2c4c.PNG",
+    "static/media/appointments.PNG": "/a/static/media/appointments.01a3cd47a3368c056c76.PNG",
+    "index.html": "/a/index.html",
+    "main.6d1065be.css.map": "/a/static/css/main.6d1065be.css.map",
+    "main.6733191f.js.map": "/a/static/js/main.6733191f.js.map"
   },
   "entrypoints": [
     "static/css/main.6d1065be.css",
-    "static/js/main.61881f64.js"
+    "static/js/main.6733191f.js"
   ]
 }
