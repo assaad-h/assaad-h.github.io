@@ -22,7 +22,6 @@ const MyNavbar = () => {
                 <Nav className="me-auto">
                     <NavLink to="/" style={textStyle}>About Us</NavLink>
                     <NavLink to="/memberships" style={textStyle}>Our Memberships</NavLink>
-                    <NavLink to="/trainers" style={textStyle}>Our Trainers</NavLink>
                     <NavLink to="/machines" style={textStyle}>Our Machines</NavLink>
                     <NavLink to="/reviews" style={textStyle}>Leave a Review</NavLink>
                 </Nav>

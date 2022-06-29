@@ -3,7 +3,6 @@ import MyHome from './Home';
 import MyMemberships from './Memberships';
 import MyMachines from './Machines';
 import MyReviews from './Reviews';
-import MyTrainer from './Trainer';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -25,9 +24,6 @@ function App() {
             </Route>
             <Route path="/reviews">
               <MyReviews />
-            </Route>
-            <Route path="/trainers">
-              <MyTrainer />
             </Route>
           </Switch>
         </div>
