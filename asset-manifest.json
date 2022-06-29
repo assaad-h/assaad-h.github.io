@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d1065be.css",
-    "main.js": "/static/js/main.aadd2729.js",
+    "main.css": "/static/css/main.b8fc74a3.css",
+    "main.js": "/static/js/main.dc9b5e83.js",
     "static/media/silver.jpg": "/static/media/silver.2e28828062d8c2fc18b9.jpg",
     "static/media/benchpress.jpg": "/static/media/benchpress.540902850a25eb2739af.jpg",
     "static/media/seatedCableRow.jpg": "/static/media/seatedCableRow.76c79e619111220a941d.jpg",
     "static/media/bronze.jpg": "/static/media/bronze.0e410bf3c666aa7882a5.jpg",
     "static/media/treadmill.jpg": "/static/media/treadmill.32f9bca5724ec8e2de86.jpg",
+    "static/media/asmith.jpg": "/static/media/asmith.6f70f4e85022428f69e9.jpg",
+    "static/media/dadams.jpg": "/static/media/dadams.46e7f6c4ca8cfd7bb4ff.jpg",
     "static/media/squatrack.jpg": "/static/media/squatrack.ccf0de79b3f464bb9645.jpg",
+    "static/media/thill.jpg": "/static/media/thill.6419aaa328b6b88bdf22.jpg",
     "static/media/gold.jpg": "/static/media/gold.26d325a52b3c8340bc02.jpg",
     "static/media/phoneNumIcon.png": "/static/media/phoneNumIcon.97542532e9c221b5d36d.png",
     "static/media/location.PNG": "/static/media/location.76ea31197107f7bf2c4c.PNG",
     "static/media/appointments.PNG": "/static/media/appointments.01a3cd47a3368c056c76.PNG",
     "index.html": "/index.html",
-    "main.6d1065be.css.map": "/static/css/main.6d1065be.css.map",
-    "main.aadd2729.js.map": "/static/js/main.aadd2729.js.map"
+    "main.b8fc74a3.css.map": "/static/css/main.b8fc74a3.css.map",
+    "main.dc9b5e83.js.map": "/static/js/main.dc9b5e83.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d1065be.css",
-    "static/js/main.aadd2729.js"
+    "static/css/main.b8fc74a3.css",
+    "static/js/main.dc9b5e83.js"
   ]
 }
