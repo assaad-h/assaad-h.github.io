@@ -19,10 +19,10 @@ const MyNavbar = () => {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
-                    <Nav.Link href="/" style={textStyle}>About Us</Nav.Link>
-                    <Nav.Link href="/memberships" style={textStyle}>Our Memberships</Nav.Link>
-                    <Nav.Link href="/machines" style={textStyle}>Our Machines</Nav.Link>
-                    <Nav.Link href="/reviews" style={textStyle}>Leave a Review</Nav.Link>
+                    <Nav.Link to="/" style={textStyle}>About Us</Nav.Link>
+                    <Nav.Link to="/memberships" style={textStyle}>Our Memberships</Nav.Link>
+                    <Nav.Link to="/machines" style={textStyle}>Our Machines</Nav.Link>
+                    <Nav.Link to="/reviews" style={textStyle}>Leave a Review</Nav.Link>
                 </Nav>
                 </Navbar.Collapse>
             </Container>
