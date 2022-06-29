@@ -38,7 +38,7 @@ function MyMemberships() {
                         <Card className="cardAlign" style={{ width: '18rem' }}>
                             <Card.Img variant="top" src={Gold} style={{width:'275px', height:'275px', padding: '10px'}} />
                             <Card.Body>
-                                <Card.Title>Gold Membership (60$/month)</Card.Title>
+                                <Card.Title>Gold Membership</Card.Title>
                                 <Card.Text>
                                     - Basic Gym Access
                                     <br />
@@ -67,7 +67,7 @@ function MyMemberships() {
                         <Card className="cardAlign" style={{ width: '18rem' }}>
                             <Card.Img variant="top" src={Silver} style={{width:'275px', height:'275px', padding: '10px'}} />
                             <Card.Body>
-                                <Card.Title>Silver Membership (40$/month)</Card.Title>
+                                <Card.Title>Silver Membership</Card.Title>
                                 <Card.Text>
                                     - Basic Gym Access
                                     <br />
@@ -86,7 +86,7 @@ function MyMemberships() {
                         <Card className="cardAlign" style={{ width: '18rem' }}>
                             <Card.Img variant="top" src={Bronze} style={{width:'275px', height:'275px', padding: '10px'}} />
                             <Card.Body>
-                                <Card.Title>Bronze Membership (20$/month)</Card.Title>
+                                <Card.Title>Bronze Membership</Card.Title>
                                 <Card.Text>
                                     - Basic Gym Access
                                     <br /><br /><br /><br /><br /><br /><br /><br /><br />

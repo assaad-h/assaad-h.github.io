@@ -6,7 +6,7 @@ import cables from './cables.jpg';
 import rows from './seatedCableRow.jpg';
 import treadmill from './treadmill.jpg';
 import stairs from './stairs.jpg';
-import Image from 'react-bootstrap/Image';
+import Image from 'react-bootstrap/Image'
 
 function MyMachines() {
     return (
