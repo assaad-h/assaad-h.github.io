@@ -16,7 +16,7 @@ const MyNavbar = () => {
     return (  
         <Navbar expand="lg" style={navbarStyle}>
             <Container fluid>
-                <Navbar.Brand to="/" style={textStyle}>Apex Fitness</Navbar.Brand>
+                <Navbar.Brand href="/" style={textStyle}>Apex Fitness</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">

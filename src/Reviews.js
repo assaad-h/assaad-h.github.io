@@ -11,7 +11,7 @@ function MyReviews() {
     const handleClose = ()  => {
         alert ("Thank you for your feedback! Apex fitness cares about our customers' input.");
         // reset form after user hit submit
-        document.getElementById("formToReset").reset();
+        document.getElementById("reviewForm").reset();
     };
     return (
         <div className="reviews">
@@ -60,7 +60,7 @@ function MyReviews() {
                         <Form.Control as="textarea" rows={3} />
                     </Form.Group>
 
-                    <Button variant="secondary" id="submitForm" style={buttonStyle} onClick={handleClose} type="submit">
+                    <Button variant="secondary" style={buttonStyle} onClick={handleClose}>
                         Submit
                     </Button>
                 </Form>
